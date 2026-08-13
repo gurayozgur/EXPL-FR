@@ -89,7 +89,7 @@ Download the FR checkpoint for the target you want (see `explfr/registry.py` for
 
 ## Adapter weights
 
-The trained EXPL-FR adapters are available **[here](https://drive.google.com/drive/folders/TODO-ADAPTER-LINK)**. To get access, please share your name, affiliation, and email in the request form.
+The trained EXPL-FR adapters are available **[here](https://drive.google.com/drive/folders/1CHl0UPG7hZp-HzmBYm5VgQVz_hAb3Nbg?usp=sharing)**. To get access, please share your name, affiliation, and email in the request form.
 
 Download the checkpoints and place them in `adapter/`:
 
