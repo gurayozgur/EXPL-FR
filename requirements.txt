@@ -1,0 +1,7 @@
+torch>=1.13
+torchvision>=0.14
+transformers>=4.30
+numpy>=1.21
+scipy>=1.7
+matplotlib>=3.5
+Pillow>=9.0
