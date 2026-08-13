@@ -1,0 +1,26 @@
+# Signature vocabulary for explain.py
+#
+# One prompt per line. Optionally prefix a category and a TAB, which only
+# affects how bars are grouped and coloured in the output figure:
+#
+#     <category><TAB><prompt>
+#
+# Lines starting with # and blank lines are ignored. This file is a small
+# illustration; a useful vocabulary is much larger and covers the axes along
+# which two face images commonly vary. Write whatever concepts you want to
+# probe, in your own words.
+
+hair color	A photo of a person with blond hair.
+hair color	A photo of a person with black hair.
+hair color	A photo of a person with red hair.
+hair style	A photo of a person with long hair.
+hair style	A photo of a person with short hair.
+facial hair	A photo of a person with a beard.
+facial hair	A photo of a clean-shaven person.
+eyewear	A photo of a person wearing glasses.
+eyewear	A photo of a person wearing sunglasses.
+headwear	A photo of a person wearing a hat.
+expression	A photo of a smiling person.
+expression	A photo of a person with a neutral expression.
+makeup	A photo of a person wearing heavy makeup.
+lighting	A photo of a person under harsh lighting.

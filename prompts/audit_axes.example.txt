@@ -1,0 +1,26 @@
+# Attribute axes for audit.py
+#
+# Each block starts with [axis name] and is followed by its ordered prompts,
+# one per line, from the low end of the axis to the high end. Two prompts are
+# enough; more prompts make a graduated axis and usually a steadier direction.
+#
+# Lines starting with # and blank lines are ignored. Write your own axes.
+
+[age]
+A photo of a baby.
+A photo of a child.
+A photo of a young adult.
+A photo of a middle-aged person.
+A photo of an elderly person.
+
+[eyewear]
+A photo of a person without glasses.
+A photo of a person wearing glasses.
+
+[facial hair]
+A photo of a clean-shaven person.
+A photo of a person with a full beard.
+
+[illumination]
+A photo of a person under even, soft lighting.
+A photo of a person under harsh, directional lighting.
