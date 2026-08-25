@@ -1,6 +1,6 @@
 # EXPL-FR: Explaining Face Recognition Models via Vision-Language Alignment
 
-This repository contains the official inference code of the paper **"EXPL-FR: Explaining Face Recognition Models via Vision-Language Alignment"**, accepted at ECCV 2026 Workshops.
+This repository contains the official inference code of the paper **"[EXPL-FR: Explaining Face Recognition Models via Vision-Language Alignment](https://arxiv.org/pdf/2608.21486)"**, accepted at ECCV 2026 Workshops.
 
 ## Poster
 <p align="center">
@@ -206,14 +206,14 @@ Scale matters more than anything else in this pipeline, and small runs behave di
 ## Citation
 
 ```
-@inproceedings{explfr2026,
-  author    = {Guray Ozgur and
-               Mustafa Efe Tamyapar and
-               Naser Damer and
-               Fadi Boutros},
-  title     = {EXPL-FR: Explaining Face Recognition Models via Vision-Language Alignment},
-  booktitle = {Computer Vision - {ECCV} 2026 Workshops},
-  year      = {2026}
+@misc{ozgur2026explfrexplainingfacerecognition,
+      title={EXPL-FR: Explaining Face Recognition Models via Vision-Language Alignment}, 
+      author={Guray Ozgur and Mustafa Efe Tamyapar and Naser Damer and Fadi Boutros},
+      year={2026},
+      eprint={2608.21486},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2608.21486}, 
 }
 ```
 
