@@ -2,6 +2,8 @@
 
 This repository contains the official inference code of the paper **"[EXPL-FR: Explaining Face Recognition Models via Vision-Language Alignment](https://arxiv.org/pdf/2608.21486)"**, accepted at ECCV 2026 Workshops.
 
+###  **[Project Page](https://expl-fr.github.io/)**
+
 ## Poster
 <p align="center">
     <img src="assets/EXPL_FR_POSTER.png" alt="EXPL-FR Poster" width="80%">
